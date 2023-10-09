@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689186907 source:c:\users\asus\desktop\fs\car showroom management\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<iomanip>
+

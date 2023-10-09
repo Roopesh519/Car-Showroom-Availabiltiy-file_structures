@@ -1,0 +1,7 @@
+car111|scorpio|white|2022|500000
+car123|thar|black|2023|600000
+car101|tiago|white|2020|500000
+car102|creta|black|2023|900000
+car103|wagonr|blue|2022|600000
+car104|nexon|red|2020|800000
+car105|audi|a4|2023|500000
